@@ -14,6 +14,7 @@ public:
   }
 };
 
+/*
 int main() {
   Solution sol;
   vector<int> nums = {1, 2, 3, 4, 5, 6, 7};
@@ -22,3 +23,4 @@ int main() {
     cout << n << ", ";
   cout << endl;
 }
+*/
